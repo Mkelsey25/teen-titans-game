@@ -1,0 +1,87 @@
+[
+  {
+    "id": 0,
+    "name": "Robin",
+    "image": "https://img00.deviantart.net/60b2/i/2012/204/9/8/teen_titans___robin_by_icha_icha-d58ckm2.png",
+    "clicked": false,
+    "value": 1
+  },
+  {
+    "id": 1,
+    "name": "Starfire",
+    "image": "https://vignette.wikia.nocookie.net/teentitans/images/6/6b/Imageedit_1_7569095429.gif/revision/latest?cb=20150813213827",
+    "clicked": false,
+    "value": 1
+  },
+  {
+    "id": 2,
+    "name": "Raven",
+    "image": "https://vignette.wikia.nocookie.net/teentitans/images/0/0a/Latest-2.png/revision/latest?cb=20150813183840",
+    "clicked": false,
+    "value": 1
+  },
+  {
+    "id": 3,
+    "name": "Cyborg",
+    "image": "https://vignette.wikia.nocookie.net/fictional-battle-omniverse/images/7/75/Cyborg_Teen_Titans.png/revision/latest?cb=20160708083827",
+    "clicked": false,
+    "value": 1
+  },
+  {
+    "id": 4,
+    "name": "Beast Boy",
+    "image": "https://vignette.wikia.nocookie.net/powerpuff/images/3/32/Beast_Boy_Teen_Titans.jpg/revision/latest?cb=20160819185515",
+    "clicked": false,
+    "value": 1
+  },
+  {
+    "id": 5,
+    "name": "Terra",
+    "image": "https://vignette.wikia.nocookie.net/villains/images/5/5a/Terra.jpg/revision/latest?cb=20170826235611",
+    "clicked": false,
+    "value": 1
+  },
+  {
+    "id": 6,
+    "name": "Hotspot",
+    "image": "https://i.pinimg.com/originals/14/9c/1f/149c1fb7fb72f7b853e404ae280c981d.jpg",
+    "clicked": false,
+    "value": 1
+  },
+  {
+    "id": 7,
+    "name": "Bumble Bee",
+    "image": "https://i.pinimg.com/564x/13/9c/58/139c58d460862d9a1b51c6e986c3be70.jpg",
+    "clicked": false,
+    "value": 1
+  },
+  {
+    "id": 8,
+    "name": "Slade",
+    "image": "http://images2.fanpop.com/image/photos/11400000/Deathstroke-Slade-teen-titans-11403046-196-468.jpg",
+    "clicked": false,
+    "value": 1
+  },
+  {
+    "id": 9,
+    "name": "Blackfire",
+    "image": "https://78.media.tumblr.com/0b94e0b87e3d72031ab63a40d8cb6e95/tumblr_pdvdcawWpg1vfs8g6o5_250.png",
+    "clicked": false,
+    "value": 1
+  },
+  {
+    "id": 10,
+    "name": "Red X",
+    "image": "https://vignette.wikia.nocookie.net/teentitans/images/5/5f/Red_X.png/revision/latest?cb=20160601151457",
+    "clicked": false,
+    "value": 1
+  },
+  {
+    "id": 11,
+    "name": "Trigon",
+    "image": "http://images2.fanpop.com/image/photos/11100000/Trigon-teen-titans-villans-11122677-280-450.jpg",
+   "clicked": false,
+   "value": 1
+  }
+]
+
